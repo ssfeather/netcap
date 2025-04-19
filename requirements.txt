@@ -1,0 +1,11 @@
+
+obspy>=1.4.0
+numpy
+pandas
+scipy
+cartopy>=0.22
+geopandas
+jinja2
+typer
+pandocfilters
+geopy
